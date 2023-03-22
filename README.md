@@ -19,7 +19,7 @@
     <div><b>Занятость</b>: полная занятость, частичная занятость, проектная работа;</div>
     <div><b>График работы</b>: полный день, сменный график, гибкий график, удаленная работа.</div>
   </div>
-  <img src="photo.png" alt="photo" width=20% height=20%>
+  <img src="/photo.png" alt="photo" width=20% height=20%>
 </div>
 
 <br/>
